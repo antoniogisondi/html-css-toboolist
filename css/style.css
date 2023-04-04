@@ -26,5 +26,13 @@ h1{
     vertical-align:super;
     font-size: 50px;
     font-family: Arial, Helvetica, serif;
-}
+} 
 /* FINE DELL'HEADER */
+/* INIZIO DEL MAIN */
+main{
+    width: 1035px;
+    height: 650px;
+    background-color: white;
+    margin-left: 17%;
+    margin-top: 50px;
+}
